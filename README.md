@@ -1,1 +1,1 @@
-# PwC_Process_Mining_project
+# PwC_HSE_project
